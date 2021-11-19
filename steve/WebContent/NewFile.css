@@ -16,16 +16,27 @@ h2{
 	color:blue;
 }
 
-section.links1{
+.links{
 	background-color:;
-}
+	text-align:center;
+	}
+.links a:hover{
+	background-color:yellow;
+	color:red;
+	}
 
 section.links2{
 	background-color:white;
 }
+.links2 :visited{
+	background-color:blue;
+	color:white;
+}
 
 img.derecha {
 float: right;
+position:relative;
+bottom:170px;
   
 }
 
