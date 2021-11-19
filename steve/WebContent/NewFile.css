@@ -16,12 +16,17 @@ h2{
 	color:blue;
 }
 
-links1.link{
-	background-color:blue;
+section.links1{
+	background-color:;
 }
 
-links2:link{
+section.links2{
 	background-color:white;
+}
+
+img.derecha {
+float: right;
+  
 }
 
 body {
